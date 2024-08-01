@@ -1,6 +1,8 @@
 <template>
   <div id="app">
-    <h1>Teste alterando para o novo deploy</h1>
+    <img alt="Vue logo" src="./assets/logo.png">
+    <h1>Mudando novamente porque tinha dado erro.</h1>
+    <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
 
